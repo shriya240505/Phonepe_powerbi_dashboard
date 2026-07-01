@@ -139,7 +139,8 @@ Business Intelligence
 
 ## Dashboard Preview
 
-![Dashboard Preview](PhonePe_Dashboard.png)
+
+![Dashboard Preview](dashboard_pics/Power%20BI%20phonepe%20dashboard.png)
 
 ---
 
